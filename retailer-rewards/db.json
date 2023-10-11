@@ -1,0 +1,94 @@
+{
+  "transactions" : [
+    {
+      "customer": "John",
+      "month" : "jan",
+      "amount": 120
+    },
+    {
+      "customer": "John",
+      "month" : "feb",
+      "amount": 150
+    },
+    {
+      "customer": "John",
+      "month" : "mar",
+      "amount": 200
+    },
+    {
+      "customer": "Kathy",
+      "month" : "jan",
+      "amount": 250
+    },
+    {
+      "customer": "Kathy",
+      "month" : "feb",
+      "amount": 100
+    },
+    {
+      "customer": "Kathy",
+      "month" : "mar",
+      "amount": 220
+    },
+    {
+      "customer": "Rahul",
+      "month" : "jan",
+      "amount": 150
+    },
+    {
+      "customer": "Rahul",
+      "month" : "feb",
+      "amount": 170
+    },
+    {
+      "customer": "Rahul",
+      "month" : "mar",
+      "amount": 250
+    },
+    {
+      "customer": "Sangeeta",
+      "month" : "jan",
+      "amount": 500
+    },
+    {
+      "customer": "Sangeeta",
+      "month" : "feb",
+      "amount": 700
+    },
+    {
+      "customer": "Sangeeta",
+      "month" : "mar",
+      "amount": 800
+    },
+    {
+      "customer": "Pallav",
+      "month" : "jan",
+      "amount": 900
+    },
+    {
+      "customer": "Pallav",
+      "month" : "feb",
+      "amount": 500
+    },
+    {
+      "customer": "Pallav",
+      "month" : "mar",
+      "amount": 110
+    },
+    {
+      "customer": "Vishal",
+      "month" : "jan",
+      "amount": 500
+    },
+    {
+      "customer": "Vishal",
+      "month" : "feb",
+      "amount": 1200
+    },
+    {
+      "customer": "Vishal",
+      "month" : "mar",
+      "amount": 500
+    }
+  ]
+}
